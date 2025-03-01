@@ -1,7 +1,7 @@
 Pokémon Explorer is a minimalistic web app built with Next.js, TypeScript, and Tailwind CSS, allowing users to browse and search for Pokémon using the PokéAPI.
 
 
-#🚀 Features
+🚀 #Features
 
  Pokédex: View a list of the first 151 Pokémon with official artwork.
 
@@ -15,7 +15,7 @@ Pokémon Explorer is a minimalistic web app built with Next.js, TypeScript, and 
 
 
 
-#🛠️ Tech Stack
+🛠️ #Tech Stack
 
  Frontend: Next.js, TypeScript, Tailwind CSS
 
@@ -25,7 +25,7 @@ Pokémon Explorer is a minimalistic web app built with Next.js, TypeScript, and 
 
 
 
-📦 Installation & Setup
+📦 #Installation & Setup
 
 1. Clone the repository using git clone "repo link"
 
