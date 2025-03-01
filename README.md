@@ -1,42 +1,42 @@
 Pokémon Explorer is a minimalistic web app built with Next.js, TypeScript, and Tailwind CSS, allowing users to browse and search for Pokémon using the PokéAPI.
 
+
 🚀 Features
 
-Pokédex: View a list of the first 151 Pokémon with official artwork.
+# Pokédex: View a list of the first 151 Pokémon with official artwork.
 
-Search Functionality: Filter Pokémon by name.
+# Search Functionality: Filter Pokémon by name.
 
-Detailed Pokémon Pages: View stats, types, and moves for each Pokémon.
+# Detailed Pokémon Pages: View stats, types, and moves for each Pokémon.
 
-Smooth Animations: Powered by Framer Motion for fade-in and scroll animations.
+# Smooth Animations: Powered by Framer Motion for fade-in and scroll animations.
 
-Responsive Design: Works seamlessly on all devices.
+# Responsive Design: Works seamlessly on all devices.
+
+
 
 🛠️ Tech Stack
 
-Frontend: Next.js, TypeScript, Tailwind CSS
+# Frontend: Next.js, TypeScript, Tailwind CSS
 
-Animations: Framer Motion
+# Animations: Framer Motion
 
-Data Source: PokéAPI
+# Data Source: PokéAPI
+
+
 
 📦 Installation & Setup
 
-Clone the repository
+1. Clone the repository using git clone "repo link"
 
-git clone https://github.com/your-username/pokemon-explorer.git
-cd pokemon-explorer
+2. cd pokemon-explorer
 
-Install dependencies
+3. Install dependencies
 
-yarn install  # or npm install
+4. yarn install  # or npm install
 
-Run the development server
+5. Run the development server using yarn dev  # or npm run dev
 
-yarn dev  # or npm run dev
-
-Open in browser
-
-http://localhost:3000
+6. Open in browser -> http://localhost:3000
 
 
